@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Line Chart</string>
+    <string name="button">Receive Data</string>
+</resources>
